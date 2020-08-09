@@ -1,0 +1,3 @@
+1 When adding a filter, populating repeated names/ -- mustn't be populated
+
+2 Data Changes should be updated to API database/Realtime Database
