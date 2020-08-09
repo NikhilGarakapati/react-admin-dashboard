@@ -5,7 +5,9 @@ import { UserCreate} from './userCreate';
 import jsonServerProvider from 'ra-data-json-server';
 //import { CommentList } from './comments';
 
-const dataProvider = jsonServerProvider('https://my-json-server.typicode.com/NikhilGarakapati/demo');
+const dataProvider = jsonServerProvider('https://my-json-server.typicode.com/NikhilGarakapati/demo/');
+console.log(dataProvider);
+console.log('hello');
 
 function App() {
   return(
